@@ -1,11 +1,10 @@
-Here’s a polished **GitHub-style `README.md`** for your repository, with clean formatting, usage examples, badges, and best practices for developers.
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
 ## 📘 `README.md` (GitHub Version)
-
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
 ```markdown
