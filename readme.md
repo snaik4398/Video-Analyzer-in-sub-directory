@@ -4,11 +4,12 @@ Here’s a polished **GitHub-style `README.md`** for your repository, with clean
 
 ## 📘 `README.md` (GitHub Version)
 
-```markdown
-# 🎞️ Video Metadata Analyzer
-
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
+```markdown
+# 🎞️ Video Metadata Analyzer
 
 This tool recursively scans folders containing video files, extracts metadata (duration and size), and outputs:
 - A structured `.json` report.
