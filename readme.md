@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 `README.md` (GitHub Version)
+## 📘 `README.md`
 
 
 ```markdown
